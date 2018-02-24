@@ -1,0 +1,12 @@
+{
+  "name": "yarn-test",
+  "version": "v1.0.0",
+  "description": "'My first yarn project'",
+  "main": "index.js",
+  "repository": "https://github.com/nemoZzz00/test",
+  "author": "nemo",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
